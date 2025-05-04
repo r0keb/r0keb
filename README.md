@@ -1,11 +1,11 @@
 # 🌑 r0keb 🌑
 > _“The hypervisor always whispers the truth.”_
 
-I’m **r0keb**, a low-level explorer focused on the raw mechanics that power modern computing. Trying to work as closest to the metal as possible. (except hardware hacking)
+I’m **r0keb**, a low-level explorer focused on the raw mechanics that power modern computing. I try to work as close to the metal as possible (excluding hardware hacking).
 
 ## ✦ What I’m into:
 
-- 🔧 Low-Level Sorcery: Assembly, memory layouts, CPU state. Understanding the system from its foundations.
+- 🔧 Low-Level Engineering: Assembly, memory layouts, CPU state. Understanding the system from its foundations.
 
 - ⚙ Windows Kernel: I spend time with undocumented internals, reverse engineering, and kernel-mode development.
 
