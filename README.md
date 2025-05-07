@@ -11,10 +11,10 @@ I’m **r0keb**, a low-level explorer focused on the raw mechanics that power mo
 
 - 💻 Exploit Development: I study vulnerability classes, build POCs, and analyze exploitation techniques, mostly on Windows.
 
-- ⏳ Intel Architecture: From x86 to x64 and beyond — I dissect instruction sets, CPU behavior, and architectural quirks to better understand performance and potential.
+- ⏳ Intel Architecture: From x86 to x64 and beyond. I dissect instruction sets, CPU behavior, and architectural quirks to better understand performance and potential.
 
 ⟁ I write technical posts, notes, and deep dives into the topics above.
-If you’re into systems internals, debugging rituals, or kernel-level research, feel free to take a [look](https://r0keb.github.io/).
+If you’re into systems internals, low-level debugging, or kernel-level research, feel free to take a [look](https://r0keb.github.io/).
 
 ````
 ⠀⠀⠀⠀⠀⠐⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
